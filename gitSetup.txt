@@ -13,4 +13,7 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 
 
-###new
+###TO RESET TO POSITION IN log
+$ git reset --hard <id c1fffcdeb6e15d9216113b219d6a90b7d6af7faa>
+then
+push with --force flag
